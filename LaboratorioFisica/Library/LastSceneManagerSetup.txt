@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Lab4_Proc3/ScenesL4P3/Lab4_P3Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
